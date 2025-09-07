@@ -3,8 +3,6 @@
 ## About Me
 - 🎓 3rd Year BSc Business Analytics, Maastricht University, Netherlands
 - 🎓 Semester Abroad at Hamburg University, Germany
-- 💼 Currently working on [current role/projects]
-- 🌍 Based in [Your city, Europe]
 - 📊 Passionate about data science, analytics, and visualization
 - 🔧 Building projects with R, Python, and Power BI
 
