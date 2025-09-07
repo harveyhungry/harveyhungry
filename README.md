@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm @harveyhungry! 👋
 
-<!--
-**harveyhungry/harveyhungry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 3rd Year BSc Business Analytics, Maastricht University, Netherlands
+- 🎓 Semester Abroad at Hamburg University, Germany
+- 💼 Currently working on [current role/projects]
+- 🌍 Based in [Your city, Europe]
+- 📊 Passionate about data science, analytics, and visualization
+- 🔧 Building projects with R, Python, and Power BI
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- **Languages**: R, Python, SQL, HTML/CSS
+- **Data**: ggplot2, dplyr, Pandas, Numpy
+- **Tools**: RStudio, Git
+- **Visualization**: Power BI, R Markdown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/nguyendanghuy317/)
+- 📧 [nguyendh.nguyen@student.maastrichtuniversity.nl](mailto:nguyendh.nguyen@student.maastrichtuniversity.nl) | [harveyng.work@gmail.com](mailto:harveyng.work@gmail.com)
+- 🌐 [Portfolio](https://harvey-nguyen.github.io)
+
+---
+⭐️ From [harvey-nguyen](https://github.com/harvey-nguyen)
